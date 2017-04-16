@@ -1,2 +1,4 @@
 # hello-world
-Git-Hub Guide
+
+Hi, 
+Me llamo Adrian and i am just following the tutorial
